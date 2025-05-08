@@ -3,7 +3,7 @@ This is a series of SQL challenges that I created using ChatGPT. I wanted someth
 - The script to create the database (MySQL) is in the CreationScripts folder.<br>
 - To populate data use the scripts in DataScripts. The data was incremented a few times so you'll see multiple scripts. You can load them all at the start.<br>
 
-- The rest of the files are queries. I plan to also post some solution information into the CheatSheet-Answers folder.<br>
+- The rest of the files are the queries, effectively an answer to each of the challenges. The challenges themselves are documented in the QueriesToSolve folder.<br>
 
 - This is a project that will evolve as I have time.<br>
 
